@@ -1,7 +1,8 @@
 # Smart Contact Management (SCM) 🔐
 
 ![SCM Screenshot](login.png) <!-- Add your main screenshot here -->
-
+![SCM Screenshot](addcontact.png)
+![SCM Screenshot](contact.png)
 A secure cloud-based contact management system with OAuth2 authentication and CRUD operations.
 
 ## ✨ Features
